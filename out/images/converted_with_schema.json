@@ -1,0 +1,24 @@
+{
+  "problem_id": "geometry_001",
+  "korean_problem": "한 공원에 있는 이등변삼각형 모양의 꽃밭이 있습니다. 이 꽃밭의 두 밑각이 각각 40도입니다. 이등변삼각형의 꼭짓점 각도를 구하세요.",
+  "english_problem": "There is an isosceles triangle-shaped flower bed in a park. Each of the base angles of this flower bed is 40 degrees. Find the vertex angle of the isosceles triangle.",
+  "korean_solution": "이등변삼각형의 두 밑각이 각각 40도이므로, 두 밑각의 합은 80도입니다. 삼각형의 내각의 합은 180도이므로, 꼭짓점 각도는 180도 - 80도 = 100도입니다.",
+  "english_solution": "Since each base angle of the isosceles triangle is 40 degrees, the sum of the two base angles is 80 degrees. The sum of the interior angles of a triangle is 180 degrees, so the vertex angle is 180 degrees - 80 degrees = 100 degrees.",
+  "choices": {
+    "A": "100도",
+    "B": "80도",
+    "C": "60도",
+    "D": "120도"
+  },
+  "answer": "A",
+  "curriculum": {
+    "대단원": "기하",
+    "소단원": "삼각형의 성질",
+    "학년": "중3"
+  },
+  "difficulty": "Easy",
+  "image_prompt": "Draw an isosceles triangle on a white background with high-contrast black lines. Label the two equal base angles as 40 degrees each and the vertex angle as x. Place the base angles at the bottom corners and the vertex angle at the top. Use simple labels: 40°, 40°, x.",
+  "image_caption_korean": "이등변삼각형의 각도 구성",
+  "image_caption_english": "Angle configuration of an isosceles triangle",
+  "image_path": "images/gpt_geometry_001.svg"
+}

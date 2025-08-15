@@ -1,0 +1,18 @@
+{
+  "problem_id": "custom-tri-001",
+  "question_text": "In the figure, AC = CD. ∠EBC = 45° and ∠ACD = 104°. Find x.",
+  "choices": null,
+  "answer": null,
+  "rationale": null,
+  "difficulty": "Hard",
+  "images": [
+    {
+      "alt": "figure",
+      "src": "images/triangle_diagram.png"
+    }
+  ],
+  "source": {
+    "origin": "synthetic",
+    "page": 1
+  }
+}
