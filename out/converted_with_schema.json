@@ -1,0 +1,20 @@
+{
+  "problem_id": "3d1070c9",
+  "korean_problem": "마트에서 사과를 구매할 때, 사과 1개의 가격은 25원이고, 포장비가 30원입니다. 사과를 2개 구매할 때 총 비용은 얼마인가요?",
+  "english_problem": "At a grocery store, the price of one apple is 25 won, and the packaging fee is 30 won. What is the total cost when buying 2 apples?",
+  "korean_solution": "사과 1개의 가격이 25원이므로, 2개의 사과 가격은 25원 × 2 = 50원입니다. 여기에 포장비 30원을 더하면 총 비용은 50원 + 30원 = 80원입니다. 따라서, 사과 2개를 구매할 때의 총 비용은 80원입니다.",
+  "english_solution": "The price of one apple is 25 won, so the cost for 2 apples is 25 won × 2 = 50 won. Adding the packaging fee of 30 won, the total cost is 50 won + 30 won = 80 won. Therefore, the total cost when buying 2 apples is 80 won.",
+  "choices": {
+    "A": "50원",
+    "B": "57원",
+    "C": "80원",
+    "D": "110원"
+  },
+  "answer": "C",
+  "curriculum": {
+    "대단원": "문자와 식",
+    "소단원": "일차식의 사칙 연산",
+    "학년": "1학년"
+  },
+  "difficulty": "Easy"
+}
