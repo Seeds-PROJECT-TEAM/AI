@@ -1,0 +1,1 @@
+UnicodeEncodeError('cp949', '✅ 저장 완료: C:\\Users\\psyreo\\Desktop\\Seeds-PROJECT-TEAM\\AI\\out\\converted_with_schema.json', 0, 1, 'illegal multibyte sequence')

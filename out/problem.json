@@ -1,0 +1,18 @@
+{
+  "problem_id": "6d99b141",
+  "question_text": "The function $f$ is defined by $f(x)=25 x+30$. What is the value of $f(x)$ when $x=2$ ?",
+  "choices": {
+    "A": "50",
+    "B": "57",
+    "C": "80",
+    "D": "110"
+  },
+  "answer": "C",
+  "rationale": "Choice C is correct. It's given that the function $f$ is defined by $f x=25 x+30$. Substituting 2 for $x$ in this equation yields $f 2=252+30$, which is equivalent to $f 2=50+30$, or $f 2=80$. Therefore, the value of $f x$ is 80 when $x=2$.\n\nChoice A is incorrect. This is the value of 252 , not $252+30$.\nChoice B is incorrect. This is the value of $25+2+30$, not $252+30$.\nChoice $D$ is incorrect. This is the value of $25+302$, not $252+30$.",
+  "difficulty": "Easy",
+  "images": [],
+  "source": {
+    "origin": "SAT Suite Question Bank - Results.pdf",
+    "page": 1
+  }
+}
